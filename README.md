@@ -1,6 +1,6 @@
 # RegJump
 Open Registry Editor at a given Key
-<br><br>![alt text](https://github.com/T800G/![alt text](https://github.com/T800G/RegJump/blob/master/regjump.png)<br>
+<br><br>![alt text](https://github.com/T800G/RegJump/blob/master/regjump.png)<br>
 ##Minimum system requirements
 Windows XP / Vista / 7 (32 / 64-bit)
 
