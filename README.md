@@ -11,4 +11,4 @@ Abbreviated root key names (HKCR, HKCU, HKLM, HKU, HKCC) are supported.
 a) Use from command line:
 >RegJump  HKCR\Software\Microsoft\Windows\CurrentVersion
 
-b) Copy text to clipboard and run RegJump directly.
+b) Copy key name to clipboard and run RegJump directly.
